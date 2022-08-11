@@ -1,1 +1,1 @@
-# For-Loop-n-C
+# Sum-of-Digits-of-a-Five-Digit-Number
