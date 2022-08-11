@@ -1,1 +1,1 @@
-# Sum-of-Digits-of-a-Five-Digit-Number
+# Max-Number-Function
